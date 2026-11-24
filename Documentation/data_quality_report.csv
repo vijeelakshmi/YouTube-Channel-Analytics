@@ -1,0 +1,17 @@
+﻿Check,Count
+Original row count,12000
+Cleaned row count,12000
+Duplicate Video_ID records removed,0
+Rows removed for missing required fields,0
+Rows where Likes exceeded Views (capped),0
+Rows where Comments exceeded Views (capped),0
+Invalid values set to null - Published_Hour,0
+Invalid values set to null - Duration_Minutes,0
+Invalid values set to null - Views,0
+Invalid values set to null - Likes,0
+Invalid values set to null - Comments,0
+Invalid values set to null - Subscribers,0
+Missing metric values filled with zero - Views,0
+Missing metric values filled with zero - Likes,0
+Missing metric values filled with zero - Comments,0
+Missing metric values filled with zero - Subscribers,0
